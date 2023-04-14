@@ -35,4 +35,5 @@ public class FragmentAdapterViews extends FragmentStatePagerAdapter {
     public int getCount() {
         return 3;
     }
+    ////Thằng Vinh ăn cứt vinhhhhh
 }
