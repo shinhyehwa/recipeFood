@@ -12,7 +12,7 @@ import com.example.foodrecipe.Views.SearchFragment;
 
 public class FragmentAdapterViews extends FragmentStatePagerAdapter {
 
-
+// vinh thay doi main lan 1
     public FragmentAdapterViews(@NonNull FragmentManager fm, int behavior) {
         super(fm, behavior);
     }
