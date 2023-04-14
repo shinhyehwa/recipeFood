@@ -16,7 +16,7 @@ public class FragmentAdapterViews extends FragmentStatePagerAdapter {
     public FragmentAdapterViews(@NonNull FragmentManager fm, int behavior) {
         super(fm, behavior);
     }
-
+     //vinh commit
     @NonNull
     @Override
     public Fragment getItem(int position) {
